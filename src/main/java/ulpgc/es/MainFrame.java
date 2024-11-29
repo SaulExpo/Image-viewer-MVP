@@ -27,12 +27,17 @@ public class MainFrame extends JFrame {
         JPanel panel = new JPanel();
         panel.add(createButton("<"));
         panel.add(createButton(">"));
+        panel.setBackground(Color.BLACK);
         return panel;
     }
 
     private Component createButton(String label) {
         JButton button = new JButton(label);
         button.addActionListener(e -> commands.get(label).execute());
+        button.setBackground(new Color(30, 100, 250));
+        button.setPreferredSize(new Dimension(250, 40));
+        button.setForeground(Color.WHITE);
+        button.setFont(new Font("Arial", Font.BOLD, 16));
         return button;
     }
 

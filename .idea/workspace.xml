@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="353bd823-6f6a-4f30-9dd4-9b010c95dbba" name="Changes" comment="Creación de las clases FileImageLoader, MainFrame y SwingImageDisplay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/FileImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/SwingImageDisplay.java" afterDir="false" />
+    <list default="true" id="353bd823-6f6a-4f30-9dd4-9b010c95dbba" name="Changes" comment="Implementación del Main y de 2 fotos para poder probar el image-viewer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ulpgc/es/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ulpgc/es/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +30,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Usuario/Desktop/Cosas de Saúl/Universidad/3Año/IS2/Image-Viewer/src/main/java/ulpgc/es"
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/Cosas de Saúl/Universidad/3Año/IS2/Image-Viewer"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\Cosas de Saúl\Universidad\3Año\IS2\Image-Viewer" />
       <recent name="C:\Users\Usuario\Desktop\Cosas de Saúl\Universidad\3Año\IS2\Image-Viewer\src\main\java\ulpgc\es" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -91,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732891793897</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creación de las clases FileImageLoader, MainFrame y SwingImageDisplay">
+      <option name="closed" value="true" />
+      <created>1732891966338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732891966338</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implementación del Main y de 2 fotos para poder probar el image-viewer">
+      <option name="closed" value="true" />
+      <created>1732892017892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732892017892</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +126,7 @@
     <MESSAGE value="Crear las distintas interfaces del proyecto" />
     <MESSAGE value="Crear las clases para los comandos de avanzar y retroceder" />
     <MESSAGE value="Creación de las clases FileImageLoader, MainFrame y SwingImageDisplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación de las clases FileImageLoader, MainFrame y SwingImageDisplay" />
+    <MESSAGE value="Implementación del Main y de 2 fotos para poder probar el image-viewer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementación del Main y de 2 fotos para poder probar el image-viewer" />
   </component>
 </project>
