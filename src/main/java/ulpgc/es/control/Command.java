@@ -1,4 +1,4 @@
-package ulpgc.es;
+package ulpgc.es.control;
 
 public interface Command {
     void execute();

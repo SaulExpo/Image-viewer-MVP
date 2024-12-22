@@ -1,4 +1,6 @@
-package ulpgc.es;
+package ulpgc.es.view;
+
+import ulpgc.es.control.Command;
 
 import javax.swing.*;
 import java.awt.*;
@@ -17,7 +19,7 @@ public class MainFrame extends JFrame {
         setSize(Toolkit.getDefaultToolkit().getScreenSize());
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setSize(800, 600);
+        this.setSize(600, 400);
         setLayout(new BorderLayout());
         add(createImageDisplay());
         add(createToolbar(), BorderLayout.SOUTH);
